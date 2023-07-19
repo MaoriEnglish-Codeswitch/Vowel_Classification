@@ -1,0 +1,3 @@
+n01444111 unvoiced
+n01444112 voiced
+
