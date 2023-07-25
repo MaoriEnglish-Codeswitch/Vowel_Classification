@@ -1,4 +1,5 @@
-# Vowel_Classification
+# Explaining Spectrograms in Machine Learning: A Study on Neural Networks for Speech Classification
+
 This code is for the paper: Explaining Spectrograms in Machine Learning: A Study on Neural Networks for Speech Classification
 
 Abstract:
